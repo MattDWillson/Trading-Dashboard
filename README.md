@@ -1,6 +1,6 @@
 # Algo Trading with Dashboard
 
-This project is an backtested algorhytmic trading strategy.  It utilizes a Stochastic Osccillator, Bollinger Bands, and RSI indicators to create a buy or sell signal.  These indicators are useful for pursuing a momentum trading strategy.  The Stochastic Osicillator is based on the current price and the highest and lowest price of the past 14 days.  The Bollinger Bands provide similar momentum signals but they are based on crossing over the two standard deviations from the mean. The RSI or Relative Strength Index formula is based over a 14 period similar to the Stochastic Oscillator, but utilizes the percentage return rather than the price movements. 
+This project is a backtested algorhytmic trading strategy.  It utilizes a Stochastic Osccillator, Bollinger Bands, and RSI indicators to create a buy or sell signal.  These indicators are useful for pursuing a momentum trading strategy.  The Stochastic Osicillator is based on the current price and the highest and lowest price of the past 14 days.  The Bollinger Bands provide similar momentum signals but they are based on crossing over the two standard deviations from the mean. The RSI or Relative Strength Index formula is based over a 14 period similar to the Stochastic Oscillator, but utilizes the percentage return rather than the price movements. 
 
 ## Technologies
 This use project uses Python 3.8 and iPython in Jupyter Lab.  Windows 10 is the operating system.
