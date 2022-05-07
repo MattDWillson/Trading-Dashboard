@@ -39,7 +39,7 @@ Ryan Dibeler, Thomas Revelle, Shishir Suman, Matthew Wilson
 ## License
 MIT License
 
-Copyright (c) [2021] [Ryan Dibeler,Thomas Revelle, Shishir Suman, Matthew Wilson]
+Copyright (c) [2021] [Ryan Dibeler,Thomas Revelle, Shishir Suman, Matthew Willson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
