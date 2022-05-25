@@ -34,7 +34,7 @@ To use this dashboard, navigate to the portion of the code that houses the Alpac
 
 
 ## Contributors
-Ryan Dibeler, Thomas Revelle, Shishir Suman, Matthew Wilson
+Ryan Dibeler, Thomas Revelle, Shishir Suman, Matthew Willson
 
 ## License
 MIT License
